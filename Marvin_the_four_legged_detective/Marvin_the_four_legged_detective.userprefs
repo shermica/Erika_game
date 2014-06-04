@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\level4_boss_controllers\bossLaser_contoller.js">
+    <Files>
+      <File FileName="Assets\scripts\level4_boss_controllers\player_controller.js" Line="28" Column="15" />
+      <File FileName="Assets\scripts\level1_controllers\gotoleveltwo.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\powerup_sound.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\level2_controllers\gotoLevelThree.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\level3_controllers\gotoBoss.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\level4_boss_controllers\gotoWinner.js" Line="8" Column="2" />
+      <File FileName="Assets\scripts\level4_boss_controllers\bullet_controller.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\level4_boss_controllers\boss_controller.js" Line="54" Column="25" />
+      <File FileName="Assets\scripts\level4_boss_controllers\healthMarvin.js" Line="12" Column="3" />
+      <File FileName="Assets\scripts\level4_boss_controllers\bossLaser_contoller.js" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
